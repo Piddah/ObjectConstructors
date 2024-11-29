@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#\AssignmenObjectConstructors\obj\Debug\net8.0\AssignmenObjectConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\AssignmenObjectConstructors\obj\Debug\net8.0\AssignmenObjectConstructors.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\AssignmenObjectConstructors\obj\Debug\net8.0\AssignmenObjectConstructors.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\AssignmenObjectConstructors\obj\Debug\net8.0\AssignmenObjectConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\AssignmenObjectConstructors\bin\Debug\net8.0\AssignmenObjectConstructors.exe
+C:\Users\Hp\Desktop\C#\AssignmenObjectConstructors\bin\Debug\net8.0\AssignmenObjectConstructors.deps.json
+C:\Users\Hp\Desktop\C#\AssignmenObjectConstructors\bin\Debug\net8.0\AssignmenObjectConstructors.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\AssignmenObjectConstructors\bin\Debug\net8.0\AssignmenObjectConstructors.dll
+C:\Users\Hp\Desktop\C#\AssignmenObjectConstructors\bin\Debug\net8.0\AssignmenObjectConstructors.pdb
+C:\Users\Hp\Desktop\C#\AssignmenObjectConstructors\obj\Debug\net8.0\AssignmenObjectConstructors.dll
+C:\Users\Hp\Desktop\C#\AssignmenObjectConstructors\obj\Debug\net8.0\refint\AssignmenObjectConstructors.dll
+C:\Users\Hp\Desktop\C#\AssignmenObjectConstructors\obj\Debug\net8.0\AssignmenObjectConstructors.pdb
+C:\Users\Hp\Desktop\C#\AssignmenObjectConstructors\obj\Debug\net8.0\AssignmenObjectConstructors.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\AssignmenObjectConstructors\obj\Debug\net8.0\ref\AssignmenObjectConstructors.dll
